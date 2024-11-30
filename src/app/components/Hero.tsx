@@ -14,7 +14,7 @@ export default function Hero () {
             <div className = "heroTitleDescription">
                 <p className = "heroTitle">FRONT END DEVELOPER</p>
                 <p className = "heroDescription1">
-                Welcome to my portfolio! I'm a passionate Front-End Developer with expertise in building 
+                Welcome to my portfolio! I am a passionate Front-End Developer with expertise in building 
                 sleek, responsive, and user-friendly web experiences. With a strong foundation in <span className = "descSpancolor">HTML, CSS, 
                 Tailwind , NextJS , Typescript.</span> I craft visually stunning and performant layouts
                 </p> 
