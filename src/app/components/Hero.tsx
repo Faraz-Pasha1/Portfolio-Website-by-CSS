@@ -1,19 +1,14 @@
 import Link from "next/link";
 import Image from "next/image";
-import introImage from "./../../../public/images/introImage.png"
 import Myskills from "../myskills/page";
 import Projects from "../projects/page";
 import About from "../about/page";
 import Contact from "../contact/page";
 
-
-
-
 export default function Hero () {
     return (
         <div className = "introSection">
-            
-            
+                        
             {/* INTRO DESCRIPTION SECTION */}
 
             <div className = "heroTitleDescription">
